@@ -1,0 +1,321 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="ic_fam">Family Icon</string>
+    <string name="fam_name">Family Name</string>
+    <string name="des_fam">Family Description</string>
+    <string name="period_fam">Family Life Period</string>
+    <string name="char_fam">Family Characteristics</string>
+    <string name="habitat_fam">Family Habitat</string>
+    <string name="behav_fam">Family Behavior and Classification</string>
+
+    <string name="din_name">Dino Name</string>
+    <string name="ic_dino">Dino Icon</string>
+    <string name="des_dino">Dino Description</string>
+    <string name="dino_food">Dino Food</string>
+    <string name="char_dino">Family Characteristics</string>
+    <string name="habitat_dino">Family Habitat</string>
+    <string name="behav_dino">Family Behavior and Classification</string>
+
+    <string-array name="fam_icon">
+        <item>@drawable/ic_abeli</item>
+        <item>@drawable/ic_allo</item>
+        <item>@drawable/ic_carca</item>
+        <item>@drawable/ic_diplo</item>
+        <item>@drawable/ic_droma</item>
+        <item>@drawable/ic_hadro</item>
+        <item>@drawable/ic_spino</item>
+        <item>@drawable/ic_tyra</item>
+    </string-array>
+
+    <string-array name="fam_name">
+        <item>Abelisauridae</item>
+        <item>Allosauridae</item>
+        <item>Carcharodontasauridae</item>
+        <item>Diplodocidae</item>
+        <item>Dromaeosauridae</item>
+        <item>Hadrosauridae</item>
+        <item>Spinasauridae</item>
+        <item>Tyranosauridae</item>
+    </string-array>
+
+    <string-array name="fam_description">
+        <item>Abelisauridae: A family of theropod dinosaurs known for their short, deep skulls and reduced forelimbs. They were primarily carnivorous and lived during the Cretaceous period.</item>
+        <item>Allosauridae: Predatory dinosaurs characterized by their large size, sharp teeth, and strong jaws. They were apex predators during the Late Jurassic period.</item>
+        <item>Carcharodontasauridae: A group of large carnivorous dinosaurs similar to the Tyrannosauridae. They had serrated teeth and lived during the Late Jurassic to Early Cretaceous period.</item>
+        <item>Diplodocidae: Long-necked sauropod dinosaurs known for their whip-like tails and elongated bodies. They were herbivores and lived during the Late Jurassic period.</item>
+        <item>Dromaeosauridae: A family of agile, bird-like dinosaurs with sharp claws on their feet. They were carnivorous predators and lived during the Cretaceous period.</item>
+        <item>Hadrosauridae: Duck-billed dinosaurs known for their unique dental structures used for chewing tough plant material. They were herbivores and lived during the Late Cretaceous period.</item>
+        <item>Spinasauridae: Large carnivorous dinosaurs characterized by their long spines running along their backs. They were apex predators and lived during the Cretaceous period.</item>
+        <item>Tyranosauridae: Powerful carnivorous dinosaurs with large skulls, sharp teeth, and strong hind limbs. They were apex predators during the Late Cretaceous period.</item>
+    </string-array>
+
+    <string-array name="fam_life_periods">
+        <item>Abelisauridae: Cretaceous Period</item>
+        <item>Allosauridae: Jurassic Period</item>
+        <item>Carcharodontasauridae: Cretaceous Period</item>
+        <item>Diplodocidae: Jurassic Period</item>
+        <item>Dromaeosauridae: Jurassic to Cretaceous Periods</item>
+        <item>Hadrosauridae: Late Cretaceous Period</item>
+        <item>Spinasauridae: Cretaceous Period</item>
+        <item>Tyrannosauridae: Cretaceous Period</item>
+    </string-array>
+
+    <string-array name="fam_characteristics">
+        <!-- Abelisauridae -->
+        <item>Abelisauridae were a group of theropod dinosaurs known for their short, deep skulls with robust jaws and small, often reduced, forelimbs.</item>
+
+        <!-- Allosauridae -->
+        <item>Allosauridae were large theropod dinosaurs characterized by their large skulls, sharp teeth, and powerful hind limbs, suggesting they were apex predators.</item>
+
+        <!-- Carcharodontasauridae -->
+        <item>Carcharodontasauridae were a family of large carnivorous dinosaurs with serrated teeth similar to those of modern-day sharks, indicating their predatory nature.</item>
+
+        <!-- Diplodocidae -->
+        <item>Diplodocidae were a group of long-necked, herbivorous sauropod dinosaurs known for their whip-like tails and elongated, slender bodies.</item>
+
+        <!-- Dromaeosauridae -->
+        <item>Dromaeosauridae were small to medium-sized theropod dinosaurs characterized by their sickle-shaped claws on the second toe of each hind foot, indicating they were agile predators.</item>
+
+        <!-- Hadrosauridae -->
+        <item>Hadrosauridae, also known as duck-billed dinosaurs, were herbivorous dinosaurs with flattened, duck-like bills used for cropping vegetation, and some species had elaborate head crests.</item>
+
+        <!-- Spinasauridae -->
+        <item>Spinosauridae were a family of large, carnivorous dinosaurs with elongated spines on their backs, believed to have supported a sail-like structure, and were adapted for both land and water environments.</item>
+
+        <!-- Tyranosauridae -->
+        <item>Tyranosauridae were a family of large theropod dinosaurs known for their massive size, powerful jaws, and small, two-fingered forelimbs, with Tyrannosaurus rex being the most famous member.</item>
+    </string-array>
+
+    <string-array name="fam_habitats">
+        <item>Abelisauridae: Abelisaurids lived in various habitats, including forests, plains, and coastal regions. They were primarily found in what is now South America, Africa, Madagascar, India, and Europe during the Cretaceous period.</item>
+        <item>Allosauridae: Allosaurids inhabited a wide range of environments, including forests, plains, and swamps. They were distributed across North America, Europe, Africa, and Australia during the Jurassic and Cretaceous periods.</item>
+        <item>Carcharodontasauridae: Carcharodontosaurids were primarily found in warm, tropical environments such as floodplains, coastal regions, and forested areas. They lived in regions that are now located in North and South America, Africa, Europe, and Asia during the Cretaceous period.</item>
+        <item>Diplodocidae: Diplodocids roamed open floodplain environments with lush vegetation. They were mainly found in North and South America during the Late Jurassic period.</item>
+        <item>Dromaeosauridae: Dromaeosaurids inhabited various environments, including forests, plains, and coastal regions. They were distributed across North America, Europe, Asia, and other continents during the Jurassic and Cretaceous periods.</item>
+        <item>Hadrosauridae: Hadrosaurids were widespread and lived in diverse habitats such as forests, swamps, and floodplains. They were mainly found in North America, Asia, Europe, and Antarctica during the Late Cretaceous period.</item>
+        <item>Spinasauridae: Spinosaurids inhabited environments near rivers, lakes, and coastal regions, including swampy and forested areas. They were primarily found in Africa, South America, and Europe during the Cretaceous period.</item>
+        <item>Tyranosauridae: Tyrannosaurids lived in a variety of environments ranging from forests to plains and even coastal regions. They were predominantly found in North America and Asia during the Late Cretaceous period.</item>
+    </string-array>
+
+    <string-array name="fam_classification">
+        <item>Abelisauridae: Abelisaurids were a diverse group of theropod dinosaurs known for their short, deep skulls and powerful jaws. They were primarily carnivorous and inhabited regions of Gondwana during the Cretaceous period.</item>
+        <item>Allosauridae: Allosaurids were large carnivorous dinosaurs characterized by their robust skulls, sharp teeth, and powerful hind limbs. They were apex predators during the Late Jurassic period and are believed to have been active hunters.</item>
+        <item>Carcharodontasauridae: Carcharodontosaurids were a family of large theropod dinosaurs similar to the Tyrannosaurids. They had serrated teeth and were formidable predators, inhabiting various regions during the Cretaceous period.</item>
+        <item>Diplodocidae: Diplodocids were a family of sauropod dinosaurs known for their long necks and whip-like tails. They were herbivores and likely fed on vegetation from high trees during the Late Jurassic period.</item>
+        <item>Dromaeosauridae: Dromaeosaurids were a diverse group of theropod dinosaurs characterized by their distinctive sickle-shaped claws on the second toe of each foot. They were agile predators and possibly had feathers, inhabiting various environments during the Cretaceous period.</item>
+        <item>Hadrosauridae: Hadrosaurids, also known as duck-billed dinosaurs, were herbivorous dinosaurs with unique dental structures adapted for grinding vegetation. They were widespread during the Late Cretaceous period and likely lived in herds.</item>
+        <item>Spinasauridae: Spinosaurids were a family of large carnivorous dinosaurs characterized by their elongated, crocodile-like skulls and distinctive sail-like structures on their backs. They were piscivores, feeding on fish and other aquatic prey, and lived during the Cretaceous period.</item>
+        <item>Tyrannosauridae: Tyrannosaurids were a family of large carnivorous dinosaurs known for their massive size, powerful jaws, and small forelimbs. They were apex predators during the Late Cretaceous period and included species like Tyrannosaurus rex.</item>
+    </string-array>
+
+    <string-array name="abelisauridae_genera">
+        <item>Abelisaurus</item>
+        <item>Carnotaurus</item>
+        <item>Majungasaurus</item>
+    </string-array>
+
+    <string-array name="abelisauridae_descriptions">
+        <!-- Abelisaurus -->
+        <item>
+        <![CDATA[
+        <b>Abelisaurus:</b> Abelisaurus was a carnivorous dinosaur known for its powerful jaws and robust build. It likely preyed on smaller dinosaurs and other animals. Standing around 8 to 9 feet tall at the hips and measuring approximately 25 feet in length, Abelisaurus was a formidable predator. It inhabited what is now Argentina during the Late Cretaceous period. Abelisaurus likely exhibited aggressive behavior when hunting and defending its territory. Its strength lay in its muscular body and strong bite force, while its relatively short arms may have been a weakness in grappling with prey or defending against larger predators.
+        ]]>
+    </item>
+
+        <!-- Carnotaurus -->
+        <item>
+        <![CDATA[
+        <b>Carnotaurus:</b> Carnotaurus, also known as the "meat-eating bull," was a carnivorous dinosaur characterized by its distinctive horns above its eyes. It likely preyed on smaller dinosaurs and may have been a swift predator. Carnotaurus stood around 9 to 10 feet tall at the hips and measured approximately 25 to 30 feet in length. It inhabited what is now South America during the Late Cretaceous period. Carnotaurus may have used its horns for display or combat with rivals. Its strength included speed and agility, while its relatively small arms may have limited its ability to grasp prey effectively.
+        ]]>
+    </item>
+
+        <!-- Majungasaurus -->
+        <item>
+        <![CDATA[
+        <b>Majungasaurus:</b> Majungasaurus was a carnivorous dinosaur known for its robust skull and teeth adapted for eating meat. It likely preyed on a variety of animals, including smaller dinosaurs and possibly carrion. Standing around 6 to 7 feet tall at the hips and measuring approximately 20 feet in length, Majungasaurus was a formidable predator in its ecosystem. It inhabited what is now Madagascar during the Late Cretaceous period. Majungasaurus may have exhibited complex social behaviors, including intra-species aggression. Its strength lay in its powerful jaws and ability to hunt effectively, while its relatively short arms may have limited its ability for manipulation.
+        ]]>
+    </item>
+    </string-array>
+
+
+    <string-array name="allosauridae_genera">
+        <item>Allosaurus</item>
+        <item>Saurophaganax</item>
+    </string-array>
+
+    <string-array name="allosauridae_descriptions">
+    <item><![CDATA[
+        <b>Allosaurus</b> is a large theropod dinosaur known for its formidable size and powerful jaws. This carnivorous predator roamed the Late Jurassic period and was a dominant predator of its time. Allosaurus typically measured around 8.5 to 9 meters (28 to 30 feet) in length, stood about 3.7 meters (12 feet) tall at the hips, and weighed approximately 2.3 to 4.6 metric tons (2.5 to 5 tons). It inhabited various environments, including forests and plains, across what is now North America, Europe, and possibly Africa. Allosaurus was likely an apex predator, capable of hunting and scavenging large prey such as herbivorous dinosaurs and other smaller theropods. Its sharp teeth and strong jaws enabled it to deliver powerful bites, while its agility and speed allowed for efficient hunting strategies. However, Allosaurus may have had weaknesses in its relatively lighter build compared to some contemporaneous predators, and it likely faced competition from other large carnivores in its ecosystem.
+
+    ]]></item>
+        <item><![CDATA[
+        <b>Saurophaganax</b> is another notable member of the Allosauridae family, closely related to Allosaurus and sharing similar characteristics. This large carnivorous dinosaur lived during the Late Jurassic period alongside Allosaurus, though it was slightly larger in size. Saurophaganax is estimated to have reached lengths of around 10 to 11 meters (33 to 36 feet), standing roughly 3.7 meters (12 feet) tall at the hips, and weighing approximately 2.7 to 4.5 metric tons (3 to 5 tons). Like its relative, Saurophaganax possessed powerful jaws filled with serrated teeth, making it a formidable predator in its ecosystem. It likely preyed upon large herbivorous dinosaurs, utilizing its speed and strength to overpower its victims. Saurophaganax is thought to have inhabited similar environments as Allosaurus, ranging across what is now North America. While it shared many strengths with Allosaurus, such as its predatory prowess and adaptability, it may have faced similar weaknesses due to its relatively lighter build and potential competition from other large predators.
+    ]]></item>
+    </string-array>
+
+    <string-array name="carcharodontosauridae_genera">
+        <item>Carcharodontosaurus</item>
+        <item>Giganotosaurus</item>
+        <item>Mapusaurus</item>
+    </string-array>
+
+    <string-array name="carcharodontosauridae_descriptions">
+    <item>
+        Carcharodontosaurus was a large carnivorous dinosaur that lived during the Cretaceous period. It was one of the largest theropods, reaching lengths of up to 40 feet and weighing several tons. Carcharodontosaurus was known for its sharp, serrated teeth, which were adapted for slicing through flesh. It likely preyed on large herbivorous dinosaurs such as sauropods and ornithopods. It inhabited semi-arid plains and forested regions, where it could find ample prey. Carcharodontosaurus may have been a solitary hunter or possibly hunted in small groups. Its strength lay in its massive size and powerful jaws, allowing it to take down even the largest of prey. However, its large size may have also made it relatively slow and less agile compared to smaller predators. Its main weakness may have been its dependence on finding large prey to sustain itself.
+    </item>
+        <item>
+        Giganotosaurus was another massive carnivorous dinosaur from the Cretaceous period. It was slightly larger than Tyrannosaurus rex, with lengths of up to 45 feet and weighing over 8 tons. Giganotosaurus had long, sharp teeth and powerful jaws, making it a formidable predator. It likely hunted large herbivorous dinosaurs like sauropods, using its speed and agility to outmaneuver its prey. Giganotosaurus inhabited open woodlands and plains, where it could chase down its prey over long distances. It may have hunted alone or in packs, coordinating with others to take down larger prey. Its strength lay in its speed, agility, and powerful bite, which allowed it to bring down even the largest of dinosaurs. However, like other large theropods, Giganotosaurus may have been vulnerable to injuries from struggling prey and faced competition from other predators for food.
+    </item>
+        <item>
+        Mapusaurus was a close relative of Giganotosaurus and lived during the Late Cretaceous period. It was similar in size, reaching lengths of up to 40 feet and weighing several tons. Mapusaurus likely had a similar diet and hunting strategy to Giganotosaurus, preying on large herbivorous dinosaurs such as sauropods. It may have lived in similar habitats, including open woodlands and plains. Mapusaurus may have hunted in groups, using coordinated attacks to bring down even the largest of prey. Its strength lay in its pack hunting behavior, which allowed it to take down prey much larger than itself. However, like other large theropods, Mapusaurus may have faced challenges in finding enough food to sustain a pack and may have been vulnerable to injuries from struggling prey or conflicts within the group.
+    </item>
+    </string-array>
+
+    <string-array name="diplodocidae_genera">
+        <item>Diplodocus</item>
+        <item>Apatosaurus</item>
+        <item>Barosaurus</item>
+    </string-array>
+
+    <string-array name="diplodocidae_descriptions">
+    <item>
+        Diplodocus was a herbivorous dinosaur known for its long neck and whip-like tail. It primarily fed on low-lying vegetation such as ferns and conifers. Diplodocus stood approximately 12 meters (40 feet) tall at the hips and could reach lengths of up to 27 meters (90 feet). Its weight is estimated to have been around 10-16 metric tons. Diplodocus inhabited open woodlands and plains during the Late Jurassic period. It likely lived in herds and may have migrated in search of food. Its long neck provided reach to browse high vegetation while its tail could be used as a defense against predators. Diplodocus\' main weakness was its relatively small head, which may have limited its ability to process tough plant matter efficiently. Its strength lay in its sheer size and the protection provided by its large body.
+    </item>
+        <item>
+        Apatosaurus, formerly known as Brontosaurus, was a massive herbivorous dinosaur characterized by its long neck and tail. It fed on ferns, cycads, and other low-lying vegetation. Apatosaurus stood around 9-12 meters (30-40 feet) tall at the hips and could reach lengths of up to 23-26 meters (75-85 feet). It weighed approximately 16-22 metric tons. Apatosaurus inhabited semi-arid environments and may have traveled in herds. It likely used its long neck to reach vegetation and may have employed tail-whipping as a defense mechanism against predators. Apatosaurus\' main weakness was its relatively small brain size, which may have limited its cognitive abilities. Its strength lay in its immense size and the protection provided by its robust body.
+    </item>
+        <item>
+        Barosaurus was a herbivorous dinosaur closely related to Diplodocus and Apatosaurus. It had a long neck and tail and likely fed on foliage from tall trees. Barosaurus stood around 12-15 meters (40-50 feet) tall at the hips and could reach lengths of up to 22-26 meters (72-85 feet). Its weight is estimated to have been similar to that of Diplodocus and Apatosaurus, ranging from 10-22 metric tons. Barosaurus inhabited forested environments and may have been a solitary animal. Its long neck allowed it to access high vegetation, and its tail may have been used as a defensive weapon. Barosaurus\' main weakness was its vulnerability to large predators due to its size and relatively slender build. Its strength lay in its ability to reach foliage at great heights and potentially evade predators through its long legs and speed.
+    </item>
+    </string-array>
+
+    <string-array name="dromaeosauridae_genera">
+        <item>Velociraptor</item>
+        <item>Deinonychus</item>
+        <item>Utahraptor</item>
+    </string-array>
+
+    <string-array name="dromaeosauridae_descriptions">
+    <item>
+        Velociraptor was a small to medium-sized dromaeosaurid dinosaur that lived during the Late Cretaceous period. It was about 1.8 meters (6 feet) long and weighed around 15 kilograms (33 pounds). Velociraptor was a carnivore, preying on small to medium-sized animals. It had sharp, curved claws on its hind feet, which it likely used to slash at its prey. Velociraptor is believed to have been a fast and agile runner, possibly hunting in packs to take down larger prey. Its intelligence and coordination likely contributed to its effectiveness as a predator. However, Velociraptor\'s relatively small size and lightweight may have made it vulnerable to larger predators and environmental changes.
+    </item>
+        <item>
+        Deinonychus was a medium-sized dromaeosaurid dinosaur that lived during the Early Cretaceous period. It measured around 3.4 meters (11 feet) in length and weighed approximately 73 kilograms (160 pounds). Deinonychus was a carnivore, primarily hunting small to medium-sized animals. It possessed sharp, curved claws on its hind feet, which it used to grip and slash its prey. Deinonychus is believed to have been a fast runner and an agile climber, allowing it to pursue prey both on the ground and in trees. It likely hunted in packs, employing coordinated tactics to overwhelm larger prey. Deinonychus\' size and strength made it a formidable predator, but like other dromaeosaurids, it may have been susceptible to larger predators and environmental changes.
+    </item>
+        <item>
+        Utahraptor was a large dromaeosaurid dinosaur that lived during the Early Cretaceous period. It was one of the largest members of its family, measuring approximately 5 to 7 meters (16 to 23 feet) in length and weighing around 500 kilograms (1,100 pounds). Utahraptor was a carnivore, preying on a variety of animals ranging from small mammals to large herbivorous dinosaurs. It possessed sharp, curved claws on its hind feet, which it likely used to grasp and immobilize its prey. Utahraptor is believed to have been a swift runner and a powerful predator, capable of taking down even large prey with its size and strength. It may have hunted in packs, using coordinated tactics to bring down larger dinosaurs. However, Utahraptor\'s large size and potential need for substantial food resources may have made it vulnerable to competition and changes in its environment.
+    </item>
+    </string-array>
+
+
+    <string-array name="hadrosauridae_genera">
+        <item>Edmontosaurus</item>
+        <item>Parasaurolophus</item>
+    </string-array>
+
+    <string-array name="hadrosauridae_descriptions">
+    <item>
+        <![CDATA[
+        <b>Edmontosaurus</b> was a large herbivorous dinosaur belonging to the Hadrosauridae family. It lived during the Late Cretaceous period in North America. Edmontosaurus was characterized by its duck-billed snout, which it used to efficiently chew plant material. It stood approximately 9 meters (30 feet) tall and could weigh up to 4 metric tons (about 4.4 short tons). Edmontosaurus inhabited coastal plains and river valleys, where it could find ample vegetation for food. It likely lived in herds for protection against predators. Its strength lay in its massive size and ability to consume tough plant matter, while its weakness may have been its relatively slow speed, making it vulnerable to large predators like Tyrannosaurus rex.
+        ]]>
+    </item>
+        <item>
+        <![CDATA[
+        <b>Parasaurolophus</b> was another member of the Hadrosauridae family known for its distinctive cranial crest. This herbivorous dinosaur lived during the Late Cretaceous period in North America. Parasaurolophus used its elongated, hollow crest, which extended backward from its skull, for communication, possibly to produce sounds for signaling others or attracting mates. It stood around 9 meters (30 feet) in height and weighed about 2-3 metric tons (approximately 2.2-3.3 short tons). Parasaurolophus likely lived in both open floodplain environments and forested regions. It was a social dinosaur, living in herds for protection. Its strength included its formidable size and ability to communicate over long distances using its crest, while its weakness may have been its relatively low speed compared to some predators.
+        ]]>
+    </item>
+    </string-array>
+
+    <string-array name="spinosauridae_genera">
+        <item>Spinosaurus</item>
+        <item>Suchomimus</item>
+    </string-array>
+
+    <string-array name="spinosauridae_descriptions">
+    <item><![CDATA[
+        <b>Spinosaurus:</b>
+        Spinosaurus was a large theropod dinosaur known for its distinctive sail-like structure on its back, composed of elongated neural spines. It lived during the Cretaceous period. Spinosaurus was primarily piscivorous, meaning it mainly fed on fish, and it likely spent a significant amount of time in aquatic environments. Estimates suggest it could reach lengths of up to 50-60 feet (15-18 meters), making it one of the largest carnivorous dinosaurs. It likely inhabited swampy or coastal habitats. Spinosaurus may have had a semi-aquatic lifestyle, capable of both terrestrial and aquatic locomotion. Its weaknesses might have included vulnerability to attacks from larger predators, while its strength lay in its potentially powerful jaws and adaptability to varied environments.
+    ]]></item>
+        <item><![CDATA[
+        <b>Suchomimus:</b>
+        Suchomimus was a theropod dinosaur that lived during the Early Cretaceous period. It had a long, crocodile-like snout, from which it gets its name, meaning "crocodile mimic." Suchomimus was piscivorous, like Spinosaurus, and it likely inhabited coastal or riverine environments, where it could easily catch fish. It was slightly smaller than Spinosaurus, estimated to be around 30 feet (9 meters) in length. Suchomimus may have had a semi-aquatic lifestyle similar to Spinosaurus, but it probably spent more time on land. Its weaknesses might have included vulnerability to larger predators, while its strength lay in its specialized adaptations for catching fish and possibly scavenging opportunities.
+    ]]></item>
+    </string-array>
+
+
+    <string-array name="tyrannosauridae_genera">
+        <item>Tyrannosaurus</item>
+        <item>Albertosaurus</item>
+        <item>Daspletosaurus</item>
+    </string-array>
+
+    <string-array name="tyrannosauridae_descriptions">
+    <item>
+        <b>Tyrannosaurus:</b> Tyrannosaurus rex, often referred to as T. rex, is one of the most iconic dinosaurs. It was a large carnivore, known for its powerful jaws and massive size. T. rex had a height of around 15 to 20 feet at the hips and could weigh up to 9 tons. It inhabited various habitats, ranging from forests to plains, during the Late Cretaceous period. T. rex was a formidable predator, capable of taking down large prey such as hadrosaurs and ceratopsians. Its strength lay in its massive skull and robust body, which enabled it to deliver devastating bites to its prey. However, T. rex likely had limitations in its agility due to its size, and it may have relied on ambush tactics to capture prey effectively.
+    </item>
+        <item>
+        <b>Albertosaurus:</b> Albertosaurus was a smaller relative of Tyrannosaurus rex, though still a formidable predator. It reached lengths of around 25 to 30 feet and weighed about 2 to 4 tons. Like its larger cousin, Albertosaurus was a carnivore, preying on a variety of dinosaurs such as hadrosaurs and ceratopsians. It inhabited similar environments during the Late Cretaceous period. Albertosaurus likely possessed similar strengths to T. rex, including powerful jaws and robust build. However, its smaller size may have afforded it greater agility, allowing it to pursue smaller and faster prey more effectively.
+    </item>
+        <item>
+        <b>Daspletosaurus:</b> Daspletosaurus, meaning "frightful lizard," was another large theropod dinosaur closely related to Tyrannosaurus rex. It was slightly smaller than T. rex, with lengths of around 25 to 30 feet and weighing approximately 2 to 3 tons. Daspletosaurus was also a carnivore, hunting in the Late Cretaceous environments of North America. It likely shared similar hunting strategies and prey preferences with its larger relatives. Its strengths included powerful jaws and keen senses, enabling it to detect and capture prey efficiently. Like other tyrannosaurids, Daspletosaurus may have faced challenges in agility due to its size, relying on ambush tactics to catch prey.
+    </item>
+    </string-array>
+
+
+    <string-array name="abeli_icon">
+<!--        abeli-->
+        <item>@drawable/abelisaurus</item>
+        <item>@drawable/carno</item>
+        <item>@drawable/majung</item>
+
+    </string-array>
+
+    <string-array name="allo_ic">
+
+        <!--        allo-->
+        <item>@drawable/allosaurus</item>
+        <item>@drawable/sauro</item>
+    </string-array>
+
+    <string-array name="carcha_ic">
+        <!--        carch-->
+        <item>@drawable/carcha</item>
+        <item>@drawable/gigano</item>
+        <item>@drawable/mapusaurus</item>
+
+    </string-array>
+    <string-array name="diplo_icon">
+        <!--        diplo-->
+        <item>@drawable/apato</item>
+        <item>@drawable/diplo</item>
+        <item>@drawable/superno</item>
+    </string-array>
+
+    <string-array name="dromae_ic">
+        <!--        drome-->
+        <item>@drawable/ic_sauricia</item>
+        <item>@drawable/ic_theropod</item>
+        <item>@drawable/ic_troodon</item>
+    </string-array>
+
+   <string-array name="hadro_ic">
+       <!--    hadro-->
+       <item>@drawable/edmonto</item>
+       <item>@drawable/parasau</item>
+   </string-array>
+
+    <string-array name="spina_ic">
+        <!--        spino-->
+        <item>@drawable/baryonix</item>
+        <item>@drawable/spinosaurus</item>
+    </string-array>
+
+    <string-array name="tyra-ic">
+        <!--        tyra-->
+        <item>@drawable/alberto</item>
+        <item>@drawable/gorgo</item>
+        <item>@drawable/tyranorex</item>
+    </string-array>
+
+
+</resources>
