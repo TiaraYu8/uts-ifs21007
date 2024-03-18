@@ -310,7 +310,7 @@
         <item>@drawable/spinosaurus</item>
     </string-array>
 
-    <string-array name="tyra-ic">
+    <string-array name="tyra_ic">
         <!--        tyra-->
         <item>@drawable/alberto</item>
         <item>@drawable/gorgo</item>
