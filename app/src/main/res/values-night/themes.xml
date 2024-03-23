@@ -1,7 +1,9 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.DinoPedia" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+<resources>
+    <style name="Base.Theme.FontsLab"
+        parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="myBackground">@color/dark_primary</item>
+        <item name="myColorText">@color/dark_text</item>
+        <item name="myColorTextMuted">@color/dark_muted</item>
     </style>
 </resources>

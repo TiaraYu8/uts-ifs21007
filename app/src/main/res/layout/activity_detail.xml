@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Base.Theme.DinoPedia">
+
+        <ImageView
+            android:id="@+id/ivDetail"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_abeli"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.056"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvDetailTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="52dp"
+            android:fontFamily="@font/acme"
+            android:text="@string/din_name"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:theme="?attr/myColorText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.461"
+            app:layout_constraintStart_toEndOf="@+id/ivDetail"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="10dp"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivDetail">
+
+            <TextView
+                android:id="@+id/tvDesDino"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:fontFamily="@font/acme"
+                android:text="@string/des_dino"
+                android:theme="?attr/myColorText"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetDesDin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginEnd="44dp"
+                android:theme="?attr/myColorText"
+                android:fontFamily="@font/acme"
+                android:text="@string/des_dino" />
+
+            <TextView
+                android:id="@+id/tvFoodDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/dino_food"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetFoodDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:theme="?attr/myColorText"
+                android:fontFamily="@font/acme"
+                android:text="@string/dino_food" />
+
+            <TextView
+                android:id="@+id/tvCharDin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:theme="?attr/myColorText"
+                android:fontFamily="@font/acme"
+                android:text="@string/char_dino"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetCharDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/char_dino" />
+
+            <TextView
+                android:id="@+id/tvHeightDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/height_dino"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetHeightDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/height_dino" />
+
+            <TextView
+                android:id="@+id/tvWeightDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/weight_dino"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetWeightDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/weight_dino" />
+
+            <TextView
+                android:id="@+id/tvWsDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/acme"
+                android:theme="?attr/myColorText"
+                android:text="@string/ws_dino"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetWsDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:theme="?attr/myColorText"
+                android:fontFamily="@font/acme"
+                android:text="@string/ws_dino" />
+
+            <TextView
+                android:id="@+id/tvHabitDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:theme="?attr/myColorText"
+                android:fontFamily="@font/acme"
+                android:text="@string/habitat_dino"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetHabitDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="?attr/myColorText"
+                android:layout_marginStart="44dp"
+                android:fontFamily="@font/acme"
+                android:text="@string/habitat_dino" />
+
+            <TextView
+                android:id="@+id/tvBehavDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="?attr/myColorText"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/acme"
+                android:text="@string/behav_dino"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDetBehavDino"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="?attr/myColorText"
+                android:layout_marginStart="44dp"
+                android:fontFamily="@font/acme"
+                android:text="@string/behav_dino" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
